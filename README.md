@@ -1,2 +1,2 @@
 # Fourier-transform
-Fourier transform implementation
+Discrete Fourier transform implementation
